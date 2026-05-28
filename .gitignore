@@ -1,0 +1,17 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# Data
+data/
+*.csv
+*.rds
+
+# macOS
+.DS_Store
+
+# Claude
+CLAUDE.md
