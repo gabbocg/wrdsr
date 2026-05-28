@@ -115,4 +115,4 @@ install.packages(c("tidyverse", "DBI", "RPostgres", "dbplyr"))
 
 - Wharton Research Data Services. (2016). [*WRDS Industry Financial Ratio Manual*](https://wrds-www.wharton.upenn.edu/pages/grid-items/financial-ratios-firm-level/).
 
-- Fama, E. F., & French, K. R. (1997). [Industry costs of equity](https://doi.org/10.1016/S0304-405X(96)00896-3). *Journal of Financial Economics*, 43(2), 153–193.
+- Fama, E. F., & French, K. R. (1997). Industry costs of equity. *Journal of Financial Economics*, 43(2), 153–193.
