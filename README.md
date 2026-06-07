@@ -112,7 +112,5 @@ install.packages(c("tidyverse", "DBI", "RPostgres", "dbplyr"))
 ## References
 
 - Wharton Research Data Services. (2024). [*WRDS Macro: Industry Financial Ratios (CIZ)*](https://wrds-www.wharton.upenn.edu/pages/wrds-research/macros/wrds-macro-indratios-ciz/).
-
 - Wharton Research Data Services. (2016). [*WRDS Industry Financial Ratio Manual*](https://wrds-www.wharton.upenn.edu/pages/grid-items/financial-ratios-firm-level/).
-
 - Fama, E. F., & French, K. R. (1997). Industry costs of equity. *Journal of Financial Economics*, 43(2), 153–193.
